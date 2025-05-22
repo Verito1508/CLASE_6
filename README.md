@@ -9,7 +9,7 @@ En este documento incluimos las siguientes etiquetas:
 - ol
 - li
 
-Para ver este proyecto tienes que clonar el repositorio completo
+Para ver este proyecto tienes que dar click en el siguiente [link](https://verito1508.github.io/CLASE_6/). 
 
 ##autor
 
